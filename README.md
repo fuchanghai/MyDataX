@@ -1,6 +1,7 @@
 # DataX-Hitocas
 
-集群模式不能开启的bug.
+##集群模式不能开启的bug.
+---
 eg：content 里可添加多个任务，core.container.model:"taskGroup" 必填
 开启集群模式后MySQL,SqlServer,Oracle等一些reader ,writer 有些解析没有写，导致不能运行（部分已解决），自定义了一个Transformer(写的不太好，待优化)
 
