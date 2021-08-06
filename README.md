@@ -1,4 +1,4 @@
-# DataX-Hitocas
+# DataX
 
 ## 集群模式不能开启的bug.
 ---
